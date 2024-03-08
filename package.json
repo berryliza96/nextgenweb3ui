@@ -1,6 +1,6 @@
 {
   "name": "nextgenweb3ui",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/berryliza96/nextgenweb3ui"
+    "url": "https://github.com/berryliza96/nextgenweb3ui.git"
   },
   "keywords": [],
   "author": "",
